@@ -2,8 +2,6 @@
 
 [My version of portfolio template](https://debthedev.github.io/upgraded-engine/) 
 
-## [](https://github.com/dgraph-io/live-demo/blob/master/README.md#run)Run
-
 # Thinkful TPM Portfolio Template
 This portfolio template was created from existing CV and Portfolio templates, as an example of the types of static pages that students can build using basic HTML and CSS skills taught as part of the practical technology portion of Thinkful's Technical Project Management program.
 
